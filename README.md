@@ -1,5 +1,5 @@
 # 💫 About Me:
-Health Informatics Student at Stony Brook University | Incoming MS Computer Science @ Pace University (2027) | Aspiring Software Engineer
+B.S. Health Informatics @ Stony Brook University ’27 | MS Computer Science (AI) @ Pace University | Seeking SWE Internships
 
 
 ## 🌐 Socials:
