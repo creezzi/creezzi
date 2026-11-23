@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.S. Health Informatics @ Stony Brook University ’27 | MS Computer Science (AI) @ Pace University | Seeking SWE Internships
+B.S. Health Informatics @ Stony Brook University ’27 | MS Computer Science (AI) @ Pace University | Seeking CyberSecurity Internships
 
 
 ## 🌐 Socials:
